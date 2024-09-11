@@ -1,0 +1,33 @@
+.mynav{
+    background: rgb(58, 107, 71);
+    
+}
+.banner{
+    width: 100%;
+    margin-top: 10px;
+ 
+}
+.card {
+    text-align: center;
+    -webkit-box-shadow: 2px 2px 2px 2px #1C1515;
+    box-shadow: 2px 2px 2px 2px #1C1515;
+    margin-bottom: 30px;
+    background-color: #ddd !important; 
+    padding: 20px;
+}
+.card:hover {
+    -webkit-box-shadow: 4px 4px 10px 2px #4F2424 !important;
+    box-shadow: 4px 4px 10px 2px #4F2424 !important;
+}
+
+
+.footer{
+    background-color: #1C1515;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+.box{
+    width: 40px;
+    height:40px;
+}
